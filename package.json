@@ -1,0 +1,19 @@
+{
+  "name": "rngit",
+  "version": "1.0.0",
+  "description": "new repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Akshatarn/rngit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshatarn/rngit/issues"
+  },
+  "homepage": "https://github.com/Akshatarn/rngit#readme"
+}
